@@ -1,6 +1,4 @@
-//Name: Mathavan A/L Krishnan
-//ID: 1201101510
-//Date: 14/9/2021
+//Name: Harsh Kumar
 //Program Description: MTRS, Movie Ticket Reservation System
 // class - Movie, Menu, Member, Customer
 #include <iostream>
